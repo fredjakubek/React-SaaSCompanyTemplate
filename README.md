@@ -4,4 +4,4 @@ Mobile responsive template for SaaS-type corporate Website in React.js. Copied 1
 
 ![Screenshot_1](public/images/React_SassTemplate_1.gif)
 
-![Screenshot_2](public/images/React_SassTemplate_1.gif)
+![Screenshot_2](public/images/React_SassTemplate_2.gif)
