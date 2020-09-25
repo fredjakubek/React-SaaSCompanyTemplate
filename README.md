@@ -1,4 +1,4 @@
-## Available Scripts
+## Responsive React.js Template in SaaS Compay Theming
 
 Mobile responsive template for SaaS-type corporate Website in React.js. Copied 1-to-1 from tutorial to learn responsive implementation patters in React.
 
